@@ -57,6 +57,8 @@ I plan to complete a bachelor in IT and further and further work on skills like 
 
 IMAGE HERE
 
+<img src="Myers-Briggs-test.png">
+
 The results in this test are a good representation of myself, I am very introverted, very reliant on myself and a very hand on person. The results don’t mean a great deal to me as I already have a good understanding of who I am although it is nice to see what traits a quiz can provide to you, most being right and some being a little off.
 
 These results won’t affect my behaviour in a team, as my everyday life at work consists of working in part of a team and contributing to various team tasks. Also having sports as a hobby, they are all team orientated and without a team you can’t beat another team by yourself. 
@@ -67,6 +69,8 @@ Taking this into account I believe I will fit into a group quiet easily and am h
 
 IMAGE HERE
 
+<img src="img/filename.png">
+
 The results of this exam mean quite a bit as during my time at school I found it quite hard to learn in the majority of class rooms as it was just sat down and read or listen the whole time. But in the more practical classes I achieved better marks and thoroughly enjoyed those classes more. As I’d already done this test previously, I’ve been aware that I’m a practical learner. 
 
 The results of this test shouldn’t play a major role in my behaviour in a team as the quiz is intended towards Learning Styles. 
@@ -76,6 +80,8 @@ Again, it might be better to find/join a group with the same learning styles and
 **Results of one further online test of your choosing**
 
 IMAGE HERE 
+
+<img src="Big-5.png">
 
 This test was a Big Five Personality Test. The results given align well with the Myers Briggs Test. Again, the results don’t mean a whole lot, but it is nice to see what 2 different tests can provide such similar results for a user’s personality and shows that a lot of work has gone into these quizzes to provide roughly the same results. 
 
