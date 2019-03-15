@@ -55,8 +55,6 @@ I plan to complete a bachelor in IT and further and further work on skills like 
 
 **Results of an online Myers Briggs test.**
 
-IMAGE HERE
-
 <img src="Myers-Briggs-test.png">
 
 The results in this test are a good representation of myself, I am very introverted, very reliant on myself and a very hand on person. The results don’t mean a great deal to me as I already have a good understanding of who I am although it is nice to see what traits a quiz can provide to you, most being right and some being a little off.
@@ -67,9 +65,7 @@ Taking this into account I believe I will fit into a group quiet easily and am h
 
 **Results of an online learning style test.**
 
-IMAGE HERE
-
-<img src="img/filename.png">
+<img src="Learning-style.png">
 
 The results of this exam mean quite a bit as during my time at school I found it quite hard to learn in the majority of class rooms as it was just sat down and read or listen the whole time. But in the more practical classes I achieved better marks and thoroughly enjoyed those classes more. As I’d already done this test previously, I’ve been aware that I’m a practical learner. 
 
@@ -78,8 +74,6 @@ The results of this test shouldn’t play a major role in my behaviour in a team
 Again, it might be better to find/join a group with the same learning styles and personality traits as me so we can assist each other.  
 
 **Results of one further online test of your choosing**
-
-IMAGE HERE 
 
 <img src="Big-5.png">
 
