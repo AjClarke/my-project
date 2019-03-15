@@ -15,7 +15,7 @@
 
 **Basic Background:** Currently living in East Timor for 2 years with my partner, I was living in Canberra Before this year. Currently working part time and studying part time as well. My Hobbies include Computer games, any sports, gym and building computers. My Favourite Hobby would be soccer although I haven’t played in a couple years due to work and living circumstances. 
 
-### Interest in IT
+## Interest in IT
 **What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).** 
 
 Always been interested in IT, I build my first computer a couple years ago and loved it so much, would love to keep building PC’s but they are quite expensive, slowly looked further into how a computer worked and how programs worked in computers which made me want to learn more. My Interest started when I started using a computer and all the functionality it had and the progression that has come from when I started to this current date has been incredible. As stated above I have built my own PC and have assisted several friends in building theirs. I have done some programming only with Java and Python and am keen to learn more but I find it rather hard to learn at the moment. I also have a decent understanding of the components of a PC and how they each part works. 
@@ -28,7 +28,7 @@ I chose RMIT as I wanted to Study IT part time while I was at full time work als
 
 I except to learn as much as I can from the subjects and the lecturers and further enhance my skills and knowledge that I already. I hope to fully grasp Programming as it’s such an essential skill in the IT world. 
 
-#### Ideal Job
+## Ideal Job
 
 **The job advertisement itself. Including a link, and a snapshot of it (in case the link expires before the assignment deadline).**
 
@@ -51,7 +51,7 @@ Currently I have an understanding of how to build/maintenance on a desktop, a ve
 
 I plan to complete a bachelor in IT and further and further work on skills like programming. I also plan to do other IT courses possibly through CompTia and Cisco. Hopefully these will provide me with enough qualifications and skills to obtain a job in IT support to start my IT career.  
 
-##### Personal Profile 
+## Personal Profile 
 
 **Results of an online Myers Briggs test.**
 
