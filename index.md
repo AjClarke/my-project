@@ -7,7 +7,7 @@
 
 **Student Email:** s3735663@student.rmit.edu.au
 
-**Languages:** English, Indonesian (Very Basic), Tetun (Currently Learning), Thai (Very Little) 
+**Languages:** English, Indonesian (Very Basic), Tetum (Currently Learning), Thai (Very Little) 
 
 **Nationality:** AUS (Mother Thai, Father English) 
 
@@ -41,7 +41,7 @@ A job like this is essential to all companies and provides a good base for an IT
 
 **A description (in your own words) of the skills, qualifications and experience required for the position.**
 
-This is entirely dependent on the company, some ask for people with little skills, qualifications and experience are required as they will train you from scratch to work with the software/hardware that they use. Where as some companies will want skilled experience workers to just jump straight in and start working with the software/hardware they know. 
+This is entirely dependent on the company, some ask for people with little skills, qualifications and experience are required as they will train you from scratch to work with the software/hardware that they use. Whereas some companies will want skilled experience workers to just jump straight in and start working with the software/hardware they know. 
 
 **A description (in your own words) of the skills, qualifications and experience you currently have.**
 
@@ -97,24 +97,24 @@ The motivation for an application like this is simple, cinemas are located in ev
 
 We all love movies, well thanks to this project finding where, when and what movie we watch at the cinema will never be easier! 
 
-Ever been sick of going from different cinema chain to cinema chain website to find the movie you want to see just to see its not playing? This project aims to alleviate this issue, giving them all cinema chain movie and screen time in one location! With a simple search function, this allows the user to simply enter the movie name in the search bar, then giving the results of it the movie is playing at cinema’s around your location. 
+Ever been sick of going from different cinema chain to cinema chain website to find the movie you want to see just to see it’s not playing? This project aims to alleviate this issue, giving them all cinema chain movie and screen time in one location! With a simple search function, this allows the user to simply enter the movie name in the search bar, then giving the results of it the movie is playing at cinema’s around your location. 
 
 Once you have created and account on this application it will open up a few more functionalities. Having trouble remembering which movie you watched last or before that? After you sign up you can choose if you want the application to track/remember the movies you booked. There will also be special promotions and more available for users that have created an account for the application. 
 
-Sick and tired of waiting in life to buy your food and or ticket? Well enjoy the luxury of purchasing your ticket through this application giving you the choice of where to sit in the cinema. Once your ticket has been purchased you will receive a QR code as your ticket which you simply just show to the ticket man for him to scan. Enjoy the freedom of purchasing food to pickup when you arrive at the cinema, simply order the food you want and what time you want to pick it up just before your movie starts saving the hassle of having to stand in line and allowing you to proceed straight into your movie. 
+Sick and tired of waiting in life to buy your food and or ticket? Well enjoy the luxury of purchasing your ticket through this application giving you the choice of where to sit in the cinema. Once your ticket has been purchased you will receive a QR code as your ticket which you simply just show to the ticket man for him to scan. Enjoy the freedom of purchasing food to pick up when you arrive at the cinema, simply order the food you want and what time you want to pick it up just before your movie starts saving the hassle of having to stand in line and allowing you to proceed straight into your movie. 
 
 Buying a ticket for your friend or partner? Have the freedom to send their ticket to them after you purchase it. This process will work by the user sending the QR code either to the other person application or through a SMS. If you have signed up, you can also add friends to your account, this will show you what movie they watched recently / are watching and allow you to send them QR code tickets through the application. 
-
 
 
 **Tools and Technologies**
 
 Firstly, this application will need to utilize the GPS on the user’s phone to allow the application to find the closest cinema. The application would most likely utilize google maps as they are most used mapping tool.  It will then need to utilize open source information with software that will gather cinema locations, screen timings and additional information to use in the application. An online booking tool will be needed to allow users to book their cinema ticket, this will use QR codes for tickets allowing cinemas to easily just scan your phone and provide ticket information. 
 
-**Skills required** (100 words) 
+**Skills required** 
 
-This application will need people with moderate programming skills to write the code for software or change the software for the application. There are many applications like this already out their but with different objectives, software from other applications e.g. seat booking function when checking onto a flight. There shouldn’t be a big issue with acquiring software and hardware, but finding a skilled programmer capable of putting all the code together for this project would be the hardest part. 
+This application will most likely need people with moderate programming skills or better to write the code for software or change the software for the application. There are many applications like this already out their but with different objectives, this software can be utilized in the application by changing parts of the code e.g. seat booking function when checking onto a flight, changed to choose the users seat for their ticket. There shouldn’t be major issues with acquiring software and hardware, but finding a skilled programmer capable of changing the code and linking all the code together for this project could be the hardest issue. 
 
-**Outcome**(100 words) 
+**Outcome** 
 
-If this project is successful everyone will have access to an easy to use movie booking tool. Allowing any user to find cinema’s in their location or the closest cinema to them. This will allow the user to avoid having to search up cinema’s around their location and having to saving a lot of time but also giving the user a nice simple application to use.  
+If this project is successful, it will allow everyone access to an easy to use movie booking tool. Allowing any user to easily find cinema’s in their location or the closest cinema to them. This will allow the user to avoid having to search up cinema’s around their location and having to saving a lot of time but also giving the user a nice simple application to use.  This will be a big game changer in the way people buy tickets for a movie and a big step in the direction that the world is moving in. 
+
