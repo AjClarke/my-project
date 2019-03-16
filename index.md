@@ -35,6 +35,8 @@ I except to learn as much as I can from the subjects and the lecturers and furth
 My ideal job would have to be IT support. This job entails assisting end users whether over the phone, via email, or in person and also entails daily operations and maintenance of all IT systems including workstations, printers, networks and so on.  
 https://www.indeed.com/q-IT-Support-jobs.html?vjk=958aa1613a582f4f
 
+<img src="Capture.PNG">
+
 **A description (in your own words) of the position, and particularly what makes this position appealing to you.**
 
 A job like this is essential to all companies and provides a good base for an IT career. It allows people to start from the basics and provides essential skills and knowledge in all aspects of IT. One of the most appealing aspects of this job is it opens up doors to a bunch of other IT jobs and gives you a taste of every aspect so you can follow something you truly enjoy. 
