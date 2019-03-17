@@ -3,6 +3,8 @@
 ## Personal Information 
 **Name:** Anthony Clarke
 
+<img src="Myself.jpg">
+
 **Student ID:** s3735663
 
 **Student Email:** s3735663@student.rmit.edu.au
