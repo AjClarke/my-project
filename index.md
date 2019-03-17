@@ -15,20 +15,20 @@
 
 **Education:** Year 12 and just starting Uni
 
-**Basic Background:** Currently living in East Timor for 2 years with my partner, I was living in Canberra Before this year. Currently working part time and studying part time as well. My Hobbies include Computer games, any sports, gym and building computers. My Favourite Hobby would be soccer although I haven’t played in a couple years due to work and living circumstances. 
+**Basic Background:** I am currently living in East Timor for 2 years with my partner, previously I lived in Canberra prior to this year. I am working part time and studying part time as well. My Hobbies include Computer games, any sports, gym and building computers. My Favourite Hobby would be soccer although I haven’t played in a couple years due to work and living circumstances. 
 
 ## Interest in IT
 **What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).** 
 
-Always been interested in IT, I built my first computer a couple years ago and loved it so much, would love to keep building PC’s but they are quite expensive, slowly looked further into how a computer worked and how programs worked in computers which made me want to learn more. My Interest started when I started using a computer and all the functionality it had and the progression that has come from when I started to this current date has been incredible. As stated above I have built my own PC and have assisted several friends in building theirs. I have done some programming only with Java and Python and am keen to learn more but I find it rather hard to learn at the moment. I also have a decent understanding of the components of a PC and how each part works. 
+I have always been interested in IT, I built my first computer a couple years ago and loved it so much. I would love to keep building desktops but they are quite expensive. I gradually moved on to looking at how a computers functioned and also how programs function which made me want to learn more. My Interest in IT began when I started using a computer and all the functionality it had along with the progression that has come along from when I started to this current date has been incredible. As stated above I have built my own desktop and have assisted several friends in building theirs. I have done some programming only with Java and Python and I am keen to learn more but I find it rather hard to understand all the code at the moment. I also have a decent understanding of the components of a desktop and how each part works. 
 
 **Why did you choose to come to RMIT?**
 
-I chose RMIT as I wanted to Study IT part time while I was at full time work also for a future career following one of my passions.  I’ve also heard good things about RMIT and know several friends that have studied through RMIT and for my current situation of living overseas it was ideal for me to go with RMIT. 
+I chose RMIT as I wanted to Study IT part time while I was working full time and also to pursue a future career following one of my passions.  I’ve also heard good things about RMIT and know several friends that have studied through RMIT and recommended it. It's ideal for my current situation of living overseas to study at RMIT. 
 
 **What do you expect to learn during your studies?**
 
-I except to learn as much as I can from the subjects and the lecturers and further enhance my skills and knowledge that I already. I hope to fully grasp Programming as it’s such an essential skill in the IT world. 
+I expect to learn as much as I can from the subjects and the lecturers and further enhance my skills and knowledge that I already have. I hope to fully grasp Programming as it’s such an essential skill in the IT world. 
 
 ## Ideal Job
 
@@ -41,7 +41,7 @@ https://www.indeed.com/q-IT-Support-jobs.html?vjk=958aa1613a582f4f
 
 **A description (in your own words) of the position, and particularly what makes this position appealing to you.**
 
-A job like this is essential to all companies and provides a good base for an IT career. It allows people to start from the basics and provides essential skills and knowledge in all aspects of IT. One of the most appealing aspects of this job is it opens up doors to a bunch of other IT jobs and gives you a taste of every aspect so you can follow something you truly enjoy. 
+A job like this is essential to all companies and provides a good base for an IT career. It also allows people to start from the basics and provides essential skills and knowledge in all aspects of IT. One of the most appealing aspects of this job is it opens up doors to a bunch of other IT jobs and gives you a taste of every aspect so you can follow something you truly enjoy. 
 
 **A description (in your own words) of the skills, qualifications and experience required for the position.**
 
@@ -49,11 +49,11 @@ This is entirely dependent on the company, some ask for people with little skill
 
 **A description (in your own words) of the skills, qualifications and experience you currently have.**
 
-Currently I have an understanding of how to build/maintenance on a desktop, a very basic understanding of networking and a basic understanding of programming. I can troubleshoot basic issues with a computer and can communicate with others and work as a team. 
+Currently I have an understanding of how to build and maintain a desktop, a very basic understanding of networking and a basic understanding of programming. I can troubleshoot basic issues with a computer and can communicate with others and work as a team. 
 
 **A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.**
 
-I plan to complete a bachelor in IT and further and further work on skills like programming. I also plan to do other IT courses possibly through CompTia and Cisco. Hopefully these will provide me with enough qualifications and skills to obtain a job in IT support to start my IT career.  
+I plan to complete a bachelor in IT and further enhance my skills like programming. I also plan to do other IT courses possibly through CompTia and Cisco. Hopefully these will provide me with enough qualifications and skills to obtain a job in IT support to start my IT career.  
 
 ## Personal Profile 
 
@@ -97,7 +97,7 @@ My project idea is a mobile application that shows the user the closest cinema l
 
 The motivation for an application like this is simple, cinemas are located in every city and the majority of towns in Australia and around the world. With Cinema’s all around the world and movies constantly coming out this application should be essential for everyone with a smart phone. This will allow quick and easy access to cinema locations and screen timings near you. Surprisingly there is still no application that allows people to simply find a nearby cinema and show screen timing for each movie at that cinema. Instead users currently have to search through different websites and if they are travelling have the ordeal of finding which cinema is actually closest to them.  
 
-**Description**  (500 words) 
+**Description**
 
 We all love movies, well thanks to this project finding where, when and what movie we watch at the cinema will never be easier! 
 
